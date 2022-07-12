@@ -1,0 +1,15 @@
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\jj\ty3\bin\Debug\net6.0\ty3.exe
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\jj\ty3\bin\Debug\net6.0\ty3.deps.json
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\jj\ty3\bin\Debug\net6.0\ty3.runtimeconfig.json
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\jj\ty3\bin\Debug\net6.0\ty3.dll
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\jj\ty3\bin\Debug\net6.0\ty3.pdb
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\jj\ty3\obj\Debug\net6.0\ty3.csproj.AssemblyReference.cache
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\jj\ty3\obj\Debug\net6.0\ty3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\jj\ty3\obj\Debug\net6.0\ty3.AssemblyInfoInputs.cache
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\jj\ty3\obj\Debug\net6.0\ty3.AssemblyInfo.cs
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\jj\ty3\obj\Debug\net6.0\ty3.csproj.CoreCompileInputs.cache
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\jj\ty3\obj\Debug\net6.0\ty3.dll
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\jj\ty3\obj\Debug\net6.0\refint\ty3.dll
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\jj\ty3\obj\Debug\net6.0\ty3.pdb
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\jj\ty3\obj\Debug\net6.0\ty3.genruntimeconfig.cache
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\jj\ty3\obj\Debug\net6.0\ref\ty3.dll
