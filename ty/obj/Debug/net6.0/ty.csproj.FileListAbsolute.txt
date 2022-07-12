@@ -1,0 +1,15 @@
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\jj\ty\bin\Debug\net6.0\ty.exe
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\jj\ty\bin\Debug\net6.0\ty.deps.json
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\jj\ty\bin\Debug\net6.0\ty.runtimeconfig.json
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\jj\ty\bin\Debug\net6.0\ty.dll
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\jj\ty\bin\Debug\net6.0\ty.pdb
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\jj\ty\obj\Debug\net6.0\ty.csproj.AssemblyReference.cache
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\jj\ty\obj\Debug\net6.0\ty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\jj\ty\obj\Debug\net6.0\ty.AssemblyInfoInputs.cache
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\jj\ty\obj\Debug\net6.0\ty.AssemblyInfo.cs
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\jj\ty\obj\Debug\net6.0\ty.csproj.CoreCompileInputs.cache
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\jj\ty\obj\Debug\net6.0\ty.dll
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\jj\ty\obj\Debug\net6.0\refint\ty.dll
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\jj\ty\obj\Debug\net6.0\ty.pdb
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\jj\ty\obj\Debug\net6.0\ty.genruntimeconfig.cache
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\jj\ty\obj\Debug\net6.0\ref\ty.dll
